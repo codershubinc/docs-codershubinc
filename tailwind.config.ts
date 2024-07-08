@@ -22,8 +22,17 @@ const config = {
       fontFamily: {
         roboto: ['Roboto', 'sans-serif'],
         jetbrains: ['JetBrains Mono', 'monospace'],
-        playwrite:[ "Playwrite GB S", "cursive"],
-        Roboto_Slab:[ "Roboto Slab", "serif"],
+        ubuntu: ['Ubuntu', 'sans-serif'],
+        lora: ['Lora', 'serif'],
+        margarine: ['Margarine', 'sans-serif'],
+        playwriteFrTrad: ['Playwrite FR Trad', 'cursive'],
+        playwriteNo: ['Playwrite NO', 'cursive'],
+        playwriteVn: ['Playwrite VN', 'cursive'],
+        playwriteGbS: ['Playwrite GB S', 'cursive'],
+        Roboto_Slab: ["Roboto Slab", "serif"],
+        Syne_Mono:["Syne Mono", 'monospace'],
+        Playwrite_England_SemiJoined:["Playwrite GB S", 'cursive'],
+        Delius_Unicase:["Delius Unicase", 'cursive']
       },
       colors: {
         border: "hsl(var(--border))",
